@@ -1,6 +1,6 @@
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
-| ASP.NET Core | .NET Core 3.1 | Azure Web App, Virtual Machines |
+| ASP.NET Core | .NET Core 3.1 | Azure Web App, Virtual Machines | BlueBVN1716
 
 
 # ASP.NET Core MVC application 
