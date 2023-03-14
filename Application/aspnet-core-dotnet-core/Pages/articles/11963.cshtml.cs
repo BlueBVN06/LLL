@@ -6,15 +6,14 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 namespace aspnet_core_dotnet_core.Pages
 {
-    public class Articles : PageModel
+    public class ArticleModel : PageModel
     {
         public void OnGet()
         {
-        
         }
         public string DoTest()
         {
-            return "Articles";
+            return "ArticleModel";
         }
     }
 }
